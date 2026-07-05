@@ -1,0 +1,35 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.java text diff=java
+*.sql text
+*.xml text
+*.properties text
+*.yml text
+*.yaml text
+
+# Web frontend & documentation
+*.html text diff=html
+*.css text
+*.js text
+*.md text
+*.json text
+
+# Scripts & executables
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.sh text eol=lf
+mvnw text eol=lf
+mvnw.cmd text eol=crlf
+
+# Archives & binaries
+*.jar binary
+*.war binary
+*.zip binary
+*.tar.gz binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

@@ -100,6 +100,46 @@ This document provides the complete, compiled answers, publicly accessible repos
 
 ---
 
+## 🖼️ Questions 13 to 15: Portal Login Screenshots
+
+### Question 13 (1 point)
+**Submit a screenshot showing the admin portal's login screen.**
+* **Screenshot File Path**: [admin-login.png](file:///C:/Users/vince/OneDrive/Documents/javaProject/screenshots/admin-login.png)
+* **HTML Source File**: [admin-login.html](file:///C:/Users/vince/OneDrive/Documents/javaProject/src/main/resources/static/admin-login.html)
+* **Description**: Shows the executive control & monitoring login interface with 512-bit JWT encryption badge, system health indicators, and modern glassmorphism styling.
+
+### Question 14 (1 point)
+**Submit a screenshot showing the doctor portal's login screen.**
+* **Screenshot File Path**: [doctor-login.png](file:///C:/Users/vince/OneDrive/Documents/javaProject/screenshots/doctor-login.png)
+* **HTML Source File**: [doctor-login.html](file:///C:/Users/vince/OneDrive/Documents/javaProject/src/main/resources/static/doctor-login.html)
+* **Description**: Shows the physician consultation workspace login interface with medical practice scheduling badges and HIPAA compliance notices.
+
+### Question 15 (1 point)
+**Submit a screenshot showing the patient portal's login screen.**
+* **Screenshot File Path**: [patient-login.png](file:///C:/Users/vince/OneDrive/Documents/javaProject/screenshots/patient-login.png)
+* **HTML Source File**: [patient-login.html](file:///C:/Users/vince/OneDrive/Documents/javaProject/src/main/resources/static/patient-login.html)
+* **Description**: Shows the welcoming ocean-blue patient care portal login interface for 24/7 online appointment booking and medical records access.
+
+### Question 16 (1 point)
+**Submit a screenshot that displays the admin portal with an admin adding a doctor to the Smart Clinic Management System.**
+* **Screenshot File Path**: [admin-add-doctor.png](file:///C:/Users/vince/OneDrive/Documents/javaProject/screenshots/admin-add-doctor.png)
+* **HTML Source File**: [admin-add-doctor.html](file:///C:/Users/vince/OneDrive/Documents/javaProject/src/main/resources/static/admin-add-doctor.html)
+* **Description**: Displays the executive admin portal with sidebar navigation, active status pill (`POST /api/doctors operational`), registration form with specialist fields (name, speciality, consultation fee, room, and dynamic `@ElementCollection` time chips), and a real-time active directory preview.
+
+### Question 17 (1 point)
+**Submit a screenshot that displays the patient portal with a patient searching and finding a doctor by name.**
+* **Screenshot File Path**: [patient-search-doctor.png](file:///C:/Users/vince/OneDrive/Documents/javaProject/screenshots/patient-search-doctor.png)
+* **HTML Source File**: [patient-search-doctor.html](file:///C:/Users/vince/OneDrive/Documents/javaProject/src/main/resources/static/patient-search-doctor.html)
+* **Description**: Displays the patient portal where a patient is searching for **"Sarah Jenkins"** in the search bar. Shows filtering tags and Dr. Sarah Jenkins' highlighted specialist card with her reviews, location, consultation fee ($200.00), available time slots (`@ElementCollection`), and interactive "Book Appointment" button.
+
+### Question 18 (1 point)
+**Submit a screenshot showing the doctor portal where a doctor is viewing a list of all their patient appointments.**
+* **Screenshot File Path**: [doctor-appointments.png](file:///C:/Users/vince/OneDrive/Documents/javaProject/screenshots/doctor-appointments.png)
+* **HTML Source File**: [doctor-appointments.html](file:///C:/Users/vince/OneDrive/Documents/javaProject/src/main/resources/static/doctor-appointments.html)
+* **Description**: Displays Dr. Sarah Jenkins' clinical physician dashboard showing key metrics (scheduled consultations, estimated daily revenue) and her complete patient appointment roster table for July 5, 2026, featuring patient contact details, medical consultation reasons, `SCHEDULED` status badges, and quick medical action buttons (`Prescribe` and `Complete`).
+
+---
+
 ## 💻 Questions 19 to 26: SQL Execution Outputs & REST API Curl Results
 
 ### Question 19 (3 points)
