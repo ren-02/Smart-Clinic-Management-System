@@ -122,4 +122,4 @@ docker run -d -p 8080:8080 --name smart-clinic-app smart-clinic-management-syste
 
 ## 📄 License
 
-This project is licensed under the MIT License. Developed as a comprehensive capstone project demonstrating enterprise full-stack Spring Boot architecture.
+This project is open-source and licensed under the MIT License. Developed as a comprehensive capstone project demonstrating enterprise full-stack Spring Boot architecture.
